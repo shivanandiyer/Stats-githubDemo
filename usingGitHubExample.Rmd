@@ -7,7 +7,7 @@ output:
   html_notebook: default
 ---
 
-Kirsty is having fun, so are Jay and Shiva
+Kirsty is having fun, so are Jay and Shiva and Ghaith
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
 
