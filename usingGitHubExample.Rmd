@@ -1,12 +1,13 @@
 ---
 title: "Finding correlations in the newStarwars dataset"
-author: "Kirsty Kitto"
+author: "Team 8 - Jay,Shiva"
+
 output:
   html_document: default
   html_notebook: default
 ---
 
-Kirsty is having fun
+Kirsty is having fun, so are Jay and Shiva
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
 
